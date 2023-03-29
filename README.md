@@ -1,4 +1,6 @@
-# Analyzing Online Sports Retail Revenue
+# Analyzing and Optimizing Online Sports Retail Revenue
+
+The goal of the project is to gain insights into the companies' revenue trends and patterns, as well as to identify opportunities for growth and improvement. The results of the analysis can then be used to make data-driven decisions about the company's strategy and operations. 
 **<br>courtesy of Datacamp.com</br>**
 
 # Business Task 
