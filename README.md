@@ -8,4 +8,4 @@ For this task, we are playing the role of a product analyst for an online sports
 - [Total revenue of the global sports apparel market 2021-2026](https://www.statista.com/statistics/254489/total-revenue-of-the-global-sports-apparel-market/)
 
 # Tools
-- PostgreSQL - View [SQL script]()
+- PostgreSQL - View [SQL script](https://github.com/aolivacce/Analyzing-Online-Sports-Retail-Revenue/blob/main/SQLquery.sql)
